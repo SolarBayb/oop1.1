@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  line.cpp
+  Generating Code...
+C:\Users\Olga\source\repos\oop1.1\oop1.1\Source.cpp : fatal error C1090: PDB API call failed, error code '3': C:\Users\Olga\source\repos\oop1.1\oop1.1\Debug\vc142.pdb
